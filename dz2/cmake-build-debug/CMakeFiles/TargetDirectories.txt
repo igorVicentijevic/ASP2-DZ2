@@ -1,0 +1,3 @@
+/Users/igor/Desktop/Faks 2. godina/ASP2/Domaci/dz2/cmake-build-debug/CMakeFiles/dz2.dir
+/Users/igor/Desktop/Faks 2. godina/ASP2/Domaci/dz2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/igor/Desktop/Faks 2. godina/ASP2/Domaci/dz2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
