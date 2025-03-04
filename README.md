@@ -1,1 +1,1 @@
-Implementacija B-stabla za pretrazivanje podataka u bazi podataka.
+Implementation of a B-tree for database search optimization.
